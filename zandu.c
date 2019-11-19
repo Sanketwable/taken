@@ -7,5 +7,6 @@ int a;
 printf("You have printed %d",a);
 printf("i am sanket and i have changed many thing in this repository\n");
 printf("I'm Avinal and I corrected the spelling of 'this'");
+printf(" i am prajjwal and i have made this code shorter");
 return(0);
 }
